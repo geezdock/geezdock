@@ -34,9 +34,9 @@ I'm a Computer Science undergrad at **Amrita Vishwa Vidyapeetham University**, c
 
 > Half-baked ideas that exist somewhere between "genius" and "why did I start this."
 
-- 🔨 **[Project name here]** — one-line pitch. Status: *actively vibe-coding*.
-- 🔨 **[Project name here]** — one-line pitch. Status: *works on my machine*.
-- 🔨 **[Project name here]** — one-line pitch. Status: *60% done, might abandon it.*
+- 🔨 **[Voyaq]** — Your Personal All-in-one AI Trip Planner. Status: *actively Cooking*.
+- 🔨 **[Jarvis]** — Corporate AI resume Screening and Interview. Status: *works on my machine*.
+- 🔨 **[Muse]** — Your Personal AI Styler. Status: *60% done, might abandon it.*
 
 ---
 
