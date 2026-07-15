@@ -111,8 +111,4 @@ d4e5f6a  fix: fixed the fix from yesterday
 
 ---
 
-<p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=geezdock&icon=0&color=0" alt="Profile Views"/></a>
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
